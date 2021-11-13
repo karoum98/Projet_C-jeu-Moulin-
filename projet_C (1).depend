@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1580429378 source:c:\users\21265\desktop\codeblooks\projet_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	"functions.c"
+	"joueurVSmachine.c"
+
+1580692350 c:\users\21265\desktop\codeblooks\projet_c\functions.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+	"functions.h"
+
+1580427560 c:\users\21265\desktop\codeblooks\projet_c\functions.h
+
+1578065088 source:c:\users\21265\desktop\codeblooks\projet_c\joueurvsmachine.c
+
+1578065088 c:\users\21265\desktop\codeblooks\projet_c\joueurvsmachine.c
+
